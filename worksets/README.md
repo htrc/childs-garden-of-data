@@ -24,7 +24,7 @@ Example:
 | uva.x006114314	| Nine days to Christmas, | 1959 | eng | Ets, Marie Hall, 1895-1984; Labastida, Aurora, |
 | mdp.39015013404689 | Arrow to the sun : a Pueblo Indian tale / | 1974 | eng | McDermott, Gerald; McDermott, Gerald, |
 
-# `*native-authored-works*.json`
+# `*.json`
 
 The JSON files include some basic metadata about the workset itself, including the creators of and contributors to the workset. Also included is a list of workset IDs as persistent links to the items in the [HathiTrust Digital Library](https://hathitrust.org).
 
