@@ -60,6 +60,12 @@
     "type": "Workset",
     "description": "Children’s literature from the list of Caldecott Medal honor books",
     "created": "2023-07-07",
+    "creator": [
+        "John A. Walsh",
+        "Glen Layne-Worthey",
+        "Kate Long",
+        "Sasha Goryl"
+    ],
     "extent": 141,
     "title": "Garden of Data: Caldecott honors",
     "visibility": "public",

@@ -60,6 +60,12 @@
     "type": "Workset",
     "description": "Children’s literature from the list of Pura Belpré Award winner books",
     "created": "2023-07-07",
+    "creator": [
+        "John A. Walsh",
+        "Glen Layne-Worthey",
+        "Kate Long",
+        "Sasha Goryl"
+    ],
     "extent": 9,
     "title": "Garden of Data: Belpre winners",
     "visibility": "public",
